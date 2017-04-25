@@ -5,7 +5,7 @@
 1. Sensor & AI (http://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html)
 1. Augmented Reality (https://thinkmobiles.com/blog/best-ar-sdk-review/)
 1. IoT (https://www.forbes.com/sites/jaysondemers/2017/01/11/7-ways-the-internet-of-things-will-change-businesses-in-2017/#157efbbb39e6)
-1. Big Data Analytic Trends 2017 (
+1. Big Data Analytic Trends 2017 (https://github.com/java2017/Startup/blob/master/docs/whitepaper_top_10_big_data_trends_2017.pdf)
 
 #### ตัวอย่างการระดมทุน
 1. Crowd Funding (https://www.kickstarter.com/)
